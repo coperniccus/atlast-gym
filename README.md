@@ -2,7 +2,7 @@
 
 A.Y. 2023-2024
 
-# **ATLAST GYM: At Last! Fit, Healthy, & Fast**
+# [**ATLAST GYM: At Last! Fit, Healthy, & Fast**](https://coperniccus.github.io/atlast-gym/)
 
 ### **Purpose of the Website**
 
