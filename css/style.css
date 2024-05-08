@@ -57,7 +57,7 @@ body {
   width: 60px;
   height: 7px;
   border-radius: 10px;
-  background-color: #f8bc1a;
+  background-color: #950101;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
@@ -120,20 +120,21 @@ body {
 
 .custom_nav2 .custom_nav-container {
   padding: 5px 0;
-  background-color: #f8bc1a;
+  background-color: #3D0000;
   -webkit-clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
           clip-path: polygon(0 0, 100% 0%, 95% 100%, 5% 100%);
 }
 
 .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item .nav-link {
   padding: 10px 30px;
-  color: #070101;
+  color: #ffffff;
   text-align: center;
   position: relative;
 }
 
 .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
-  color: #ffffff;
+  color: #FF0000;
+  font-weight: bold;
 }
 
 .custom_nav2 #navbarSupportedContent {
@@ -238,13 +239,13 @@ a:focus {
 }
 
 .slider_section .detail-box h2 {
-  color: #f8bc1a;
+  color: #ffffff;
 }
 
 .slider_section .detail-box h1 {
   font-size: 4rem;
   font-weight: bold;
-  color: #f4f3f3;
+  color: #ffffff;
   text-transform: uppercase;
 }
 
@@ -313,14 +314,14 @@ a:focus {
   height: 14px;
   opacity: 1;
   background-color: transparent;
-  border: 2px solid #f8bc1a;
+  border: 2px solid #FF0000;
   border-radius: 100%;
 }
 
 .slider_section .carousel-indicators li.active {
   width: 18px;
   height: 18px;
-  border: 3px solid #f8bc1a;
+  border: 3px solid #FF0000;
 }
 
 .slider_section .number_box {
@@ -373,11 +374,11 @@ a:focus {
 }
 
 .about_section .box .img-box img {
-  max-width: 100%;
+  max-width: 20%;
 }
 
 .about_section .box .detail-box {
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 .about_section .box .detail-box a {
@@ -458,7 +459,7 @@ a:focus {
   width: 45px;
   height: 45px;
   border-radius: 100%;
-  background-color: #f8bc1a;
+  background-color: #000000;
 }
 
 .service_section .service_container .box .link_box a img {
@@ -481,7 +482,7 @@ a:focus {
   position: absolute;
   left: 0;
   top: 0;
-  background-color: rgba(67, 17, 125, 0.9);
+  background-color: rgba(149, 1, 1, 0.8);
 }
 
 .service_section .service_container .box:hover .link_box {
@@ -499,7 +500,7 @@ a:focus {
 }
 
 .us_section {
-  background-color: #3c0e78;
+  background-color: rgba(0, 0, 0, 0.9);
   color: #ffffff;
 }
 
@@ -588,7 +589,7 @@ a:focus {
   width: 40px;
   height: 4px;
   border-radius: 10px;
-  background-color: #f8bc1a;
+  background-color: #950101;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
 }
@@ -612,12 +613,12 @@ a:focus {
 }
 
 .client_section .carousel-indicators li.active {
-  background-color: #f8bc1a;
+  background-color: #950101;
 }
 
 .result_section {
   color: #ffffff;
-  background-color: #3c0e78;
+  background-color: rgba(0, 0, 0, 0.9);;
 }
 
 .result_section .row {
@@ -646,10 +647,10 @@ a:focus {
   position: absolute;
   top: 0;
   left: 0;
-  width: 40px;
+  width: 50px;
   height: 7px;
   border-radius: 10px;
-  background-color: #f8bc1a;
+  background-color: #950101;
 }
 
 .result_section .detail-box p {
@@ -659,15 +660,15 @@ a:focus {
 .result_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #f8bc1a;
-  border: 1px solid #f8bc1a;
+  background-color: #950101;
+  border: 2px solid #ffffff;
   color: #ffffff;
   margin-top: 25px;
 }
 
 .result_section .detail-box a:hover {
   background-color: transparent;
-  color: #f8bc1a;
+  color: #FF0000;
 }
 
 /* contact section */
@@ -762,7 +763,7 @@ a:focus {
 /* contact section */
 /* info section */
 .info_section {
-  background-color: #161616;
+  background-color: #3D0000;
   color: #ffffff;
 }
 
@@ -822,19 +823,19 @@ a:focus {
 }
 
 .info_section .info_form form button {
-  background-color: #f8bc1a;
+  background-color: #3D0000;
   display: inline-block;
   padding: 9px 30px;
-  background-color: #f8bc1a;
-  border: 1px solid #f8bc1a;
-  color: #000000;
+  background-color: #950101;
+  border: 1px solid #ffffff;
+  color: #ffffff;
   font-size: 15px;
   text-transform: uppercase;
 }
 
 .info_section .info_form form button:hover {
   background-color: transparent;
-  color: #f8bc1a;
+  color: #950101;
 }
 
 .info_section h6 {
@@ -904,7 +905,7 @@ a:focus {
 /* end info section */
 /* footer section*/
 .footer_section {
-  background-color: #161616;
+  background-color: #3D0000;
   padding: 20px 0;
 }
 
