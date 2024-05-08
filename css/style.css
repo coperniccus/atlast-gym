@@ -134,7 +134,7 @@ body {
 
 .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item.active .nav-link, .custom_nav2 .navbar-expand-lg .navbar-nav .nav-item:hover .nav-link {
   color: #FF0000;
-  font-weight: bold;
+  
 }
 
 .custom_nav2 #navbarSupportedContent {
