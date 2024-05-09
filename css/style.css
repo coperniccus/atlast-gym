@@ -109,6 +109,11 @@ body {
   text-align: center;
 }
 
+.sub_btn {
+  padding: 0px 20px;
+  color: #ffffff;
+  text-align: center;
+}
 .custom_nav-container .contact_nav .nav-item .nav-link img {
   width: 22px;
   margin-right: 15px;
@@ -161,21 +166,7 @@ a:focus {
           box-shadow: none;
 }
 
-.custom_nav-container .nav_search-btn {
-  background-image: url(../images/search-icon-black.png);
-  background-size: 18px;
-  background-repeat: no-repeat;
-  width: 35px;
-  height: 35px;
-  padding: 0;
-  border: none;
-  margin: 0 40px 0 15px;
-  background-position: center;
-}
 
-.custom_nav-container .nav_search-btn:hover {
-  background-image: url(../images/search-icon.png);
-}
 
 .navbar-brand {
   display: -webkit-box;
