@@ -14,13 +14,13 @@ The website’s target audience are existing and potential gym goers who are int
 
 ## **Members**
 
-Bermundo, Nicole
+[Bermundo, Nicole](https://github.com/coperniccus)
 
 Bongon, Kerby
 
-Cabanes, Angela
+[Cabanes, Angela](https://github.com/21gigi)
 
-Concepcion, Ronin
+[Concepcion, Ronin](https://github.com/Rincncpcn)
 
 Floreta, Agatha Wendie
 
